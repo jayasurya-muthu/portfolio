@@ -7,7 +7,6 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
-    overflow: hidden;
 }
 
 body.first-one {
@@ -280,6 +279,10 @@ body.first-one {
 
 .github {
     background: linear-gradient(135deg, #232526, #414345);
+}
+
+.react{
+    background: linear-gradient(135deg, green ,rgb(136, 224, 136));
 }
 
 /* Responsive */
